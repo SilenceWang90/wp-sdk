@@ -2,5 +2,3 @@ wp-sdk:
   property:
     name: wangzelin
     age: 1
-server:
-  port: 8888
