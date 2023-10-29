@@ -33,18 +33,4 @@
             <version>1.18.10</version>
         </dependency>
     </dependencies>
-
-    <!--<build>
-        <plugins>
-            &lt;!&ndash; 配置Maven插件，用于将SDK打包为JAR文件，可忽略~默认是如此的，当然如果想修改jar包名称可以 &ndash;&gt;
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
-                <version>3.2.2</version>
-                <configuration>
-                    <finalName>my-sdk</finalName>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>-->
 </project>
